@@ -3,4 +3,15 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="YELLOW">#FFFF00</color>
+    <color name="RED">#FF0000</color>
+    <color name="BLUE">#0000FF</color>
+    <color name="GREEN">#00FF00</color>
+    <color name="ORANGE">#DFAC00</color>
+    <color name="WHITE">#FFFFFF</color>
+
+    <color name="tab_checked">@color/colorPrimaryDark</color>
+    <color name="tab_unchecked">#757575</color>
 </resources>
