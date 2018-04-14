@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Taxi-Accounting</string>
+    <string-array name="payment">
+        <item>Cash</item>
+        <item>Credit</item>
+        <item>Visa</item>
+        <item>Master</item>
+        <item>Bitcoin</item>
+        <item>IOU</item>
+        <item>Grabpay</item>
+        <item>PayLah</item>
+    </string-array>
 </resources>

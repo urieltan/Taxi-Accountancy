@@ -7,6 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
 
+import com.urieltan.taxi_accounting.gridfragment.GridFragment;
+import com.urieltan.taxi_accounting.listfragment.ListFragment;
+
 public class MainActivity extends AppCompatActivity {
 
     BottomNavigationView bottomNavigationView;

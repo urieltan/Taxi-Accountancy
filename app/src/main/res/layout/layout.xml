@@ -4,6 +4,7 @@
     android:layout_height="match_parent">
     <LinearLayout
         android:layout_width="match_parent"
+        android:orientation="vertical"
         android:layout_height="match_parent">
         <TextView
             android:id="@+id/task_title"
@@ -11,9 +12,9 @@
             android:textSize="20sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
-        <Space
-            android:layout_width="20dp"
-            android:layout_height="match_parent"/>
+        <!--<Space-->
+            <!--android:layout_width="20dp"-->
+            <!--android:layout_height="match_parent"/>-->
         <TextView
             android:id="@+id/task_title2"
             android:text="Example2"
